@@ -1,8 +1,11 @@
 === Theme Blvd WooCommerce Patch ===
 Contributors: themeblvd
 Tags: themeblvd, woocommerce, woo, cart, ecommerce
-Requires at least: Theme Blvd Framework 2.1
+Requires at least: 3.2.0
+Tested up to: 3.5.1
 Stable tag: 1.1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugins adds basic compatibility with Theme Blvd themes and WooCommerce.
 
